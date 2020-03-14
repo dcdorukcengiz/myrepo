@@ -2,7 +2,8 @@
 title: "Cars Analysis"
 author: "Doruk Cengiz"
 date: "3/14/2020"
-output: html_document
+output: github_document
+
 ---
 
 ```{r setup, include=FALSE}
